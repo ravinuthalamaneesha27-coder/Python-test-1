@@ -1,0 +1,3 @@
+2total=total_2
+total_2=total_2
+class_=class_total
